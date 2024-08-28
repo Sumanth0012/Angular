@@ -1,0 +1,3 @@
+[submodule "angular"]
+	path = angular
+	url = git@git.beehyv.com:beehyv/training/2024_batch_1_sdet/sumanth-reddy/angular.git
